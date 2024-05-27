@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tEoP</string>
+    <string name="my_balances">My balances</string>
+    <string name="currency_exchange">Currency exchange</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="submit">Submit</string>
+    <string name="format_successfully_converted">You have converted %s to %s. Commission Fee: %s.</string>
+    <string name="conversion_error">An error occurred during conversion.</string>
+    <string name="currency_converted">Currency converted</string>
+    <string name="error">Error</string>
+    <string name="none">None</string>
+    <string name="ok">OK</string>
+    <string name="format_fee">Fee: %s</string>
+</resources>
